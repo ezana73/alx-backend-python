@@ -5,7 +5,7 @@ annotations to the function
 
 """
 
-from typing import TypeVar, Generic, Sequence
+import typing
 
 
 T = typing.TypeVar('T')
